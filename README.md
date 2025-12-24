@@ -16,11 +16,10 @@
 
 I'm a passionate iOS developer currently pursuing my studies in Tashkent, Uzbekistan. My journey in software development spans across mobile app development, backend systems, and AI/ML applications. I thrive on building intuitive, user-centric applications and exploring cutting-edge technologies.
 
-- 🔭 Currently working on **CryptoApp** and **CustomChat** projects
 - 🌱 Learning advanced iOS patterns, system design, and scalable architectures
 - 💡 Interested in **AI/ML integration in mobile apps**, real-time communication, and financial technology
 - 🎓 Completed university training in **Natural Language Processing** and **Machine Learning**
-- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 Reach me at: **[madaminovmuhammadjon31@gmail.com](mailto:madaminovmuhammadjon31@gmail.com)**
 
 ---
 

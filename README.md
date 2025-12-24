@@ -100,10 +100,6 @@ President Tech Award project - A collaborative effort in building innovative tra
 
 <div align="center">
 
-![Muhammadjon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madaminov0888&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madaminov0888&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madaminov0888&theme=radical&hide_border=true)
 
 </div>

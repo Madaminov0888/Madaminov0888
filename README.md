@@ -61,7 +61,7 @@ An iOS app that transforms user photos into stunning AI-powered portraits with m
 
 **Tech Stack:** `Swift` `SwiftUI` `Core ML` `AI Integration` `UIKit`
 
-**My Role:** Solo Developer - Full Development Cycle
+**My Role:** iOS Developer - Full Development Cycle
 
 **Key Features:**
 - 🎨 Multiple art style options for portrait generation
@@ -92,7 +92,7 @@ A powerful tool for measuring fields and areas using Apple's MapKit with precise
 
 **Tech Stack:** `Swift` `SwiftUI` `MapKit` `CoreLocation`
 
-**My Role:** Solo Developer - Full Development Cycle
+**My Role:** iOS Developer - Full Development Cycle
 
 **Key Features:**
 - 📍 Tap-to-add points for field definition
@@ -123,7 +123,7 @@ A comprehensive iOS app designed to simplify dog care management with tracking a
 
 **Tech Stack:** `Swift` `SwiftUI` `Combine` `Firestore` `HealthKit Integration`
 
-**My Role:** Solo Developer - Full Development Cycle
+**My Role:** iOS Developer - Full Development Cycle
 
 **Key Features:**
 - 🚶 Walk tracking with distance, steps, and time logging

@@ -45,7 +45,103 @@ I'm a passionate iOS developer currently pursuing my studies in Tashkent, Uzbeki
 
 ---
 
-## 🚀 Featured Projects
+## 📱 Published Apps on App Store
+
+### 🎨 Enchanta - AI Portrait Generator
+<div align="center">
+
+![IMAGE 2025-12-25 10:26:12](https://github.com/user-attachments/assets/f4bc8fef-9d2c-4114-9fc8-0339d215cf51)
+
+
+[![Download on App Store](https://img.shields.io/badge/Download_on-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/enchanta-ai-portrait-maker/id6749558833)
+
+</div>
+
+An iOS app that transforms user photos into stunning AI-powered portraits with multiple artistic styles.
+
+**Tech Stack:** `Swift` `SwiftUI` `Core ML` `AI Integration` `UIKit`
+
+**My Role:** Solo Developer - Full Development Cycle
+
+**Key Features:**
+- 🎨 Multiple art style options for portrait generation
+- 🤖 AI-powered image processing and enhancement
+- ✨ Customizable results with real-time preview
+- 💾 Save and share generated portraits
+- 🎯 Intuitive UI/UX design
+
+**Achievements:**
+- Complete end-to-end development from concept to App Store
+- Designed and implemented user-friendly interface
+- Integrated advanced AI models for image processing
+- Successfully submitted and published on App Store
+
+---
+
+### 🗺️ Field Maps - Area Measurement Tool
+<div align="center">
+
+![image_original](https://github.com/user-attachments/assets/40e9c696-ac5c-4b33-9bb4-753d25b46576)
+
+
+[![Download on App Store](https://img.shields.io/badge/Download_on-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/uz/app/field-maps-area-land-survey/id6741322545)
+
+</div>
+
+A powerful tool for measuring fields and areas using Apple's MapKit with precise calculations.
+
+**Tech Stack:** `Swift` `SwiftUI` `MapKit` `CoreLocation`
+
+**My Role:** Solo Developer - Full Development Cycle
+
+**Key Features:**
+- 📍 Tap-to-add points for field definition
+- 📏 Automatic area and perimeter calculation
+- 🗺️ Smooth MapKit integration
+- 🎯 Real-time measurement updates
+- 💡 Intuitive gesture controls
+
+**Perfect For:**
+- 🌾 Farmers and agricultural professionals
+- 📐 Surveyors and land measurers
+- 🏕️ Outdoor enthusiasts
+- 🏗️ Anyone interested in land information
+
+---
+
+### 🐕 Dog Care Companion - Pet Management App
+<div align="center">
+
+<img width="1206" height="2622" alt="image_original2" src="https://github.com/user-attachments/assets/ef00cb54-e29c-4cec-998e-b1fedf18cf6d" />
+
+
+[![Download on App Store](https://img.shields.io/badge/Download_on-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/uz/app/dog-training-puppy-pet-pup/id6736644895)
+
+</div>
+
+A comprehensive iOS app designed to simplify dog care management with tracking and reminders.
+
+**Tech Stack:** `Swift` `SwiftUI` `Combine` `Firestore` `HealthKit Integration`
+
+**My Role:** Solo Developer - Full Development Cycle
+
+**Key Features:**
+- 🚶 Walk tracking with distance, steps, and time logging
+- ⏰ Scheduled reminders for walks, feeding, and training
+- 🎓 Integrated training programs
+- 🐶 Multiple dog profile support
+- 📊 Health monitoring and activity tracking
+- 🔄 Real-time sync with Firestore
+
+**Technical Highlights:**
+- Implemented reactive programming with Combine
+- Cloud synchronization for multi-device support
+- Complex state management for real-time updates
+- Custom animations and smooth UI transitions
+
+---
+
+## 🚀 Featured Open Source Projects
 
 ### 📱 [CryptoApp](https://github.com/Madaminov0888/CryptoApp)
 A comprehensive SwiftUI application for cryptocurrency enthusiasts featuring real-time market data and price tracking.
@@ -110,10 +206,12 @@ President Tech Award project - A collaborative effort in building innovative tra
 
 **iOS Development**
 - Building scalable iOS applications with SwiftUI and UIKit
+- App Store submission and deployment process
 - Implementing MVVM and Clean Architecture patterns
 - Core Data for local persistence
 - RESTful API integration and networking
 - Real-time communication with WebSockets
+- AI/ML model integration in mobile apps
 
 **Backend Development**
 - Django REST Framework for API development
@@ -123,6 +221,7 @@ President Tech Award project - A collaborative effort in building innovative tra
 
 **AI/ML & Data Science**
 - Natural Language Processing (NLP)
+- Core ML integration
 - Text processing and analysis
 - Machine Learning model development
 - Python scripting for automation
@@ -136,6 +235,7 @@ President Tech Award project - A collaborative effort in building innovative tra
 - 🤖 Exploring AI/ML integration in mobile applications
 - 🔐 Implementing secure authentication and data management
 - 🌐 Building real-time collaborative features
+- 📲 Publishing more innovative apps on the App Store
 
 ---
 
